@@ -1,3 +1,4 @@
 # hello world
 123
 hwang in seong
+today is friday
